@@ -1,0 +1,15 @@
+.header {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    height: 50px;
+    color: white;
+    font-weight: bolder;
+    letter-spacing: 2px;
+    font-size: larger;
+    background-color: dodgerblue;
+}
